@@ -1,0 +1,11 @@
+- create album list page 
+-create album detail page
+-create routes 
+-creating a list of albums data
+
+show album list data: [{}], array of objects
+-go over list of albums
+-
+show album detail: {} <--- list of objects
+
+

@@ -1,0 +1,106 @@
+{
+  "happiness": [
+      {
+          "id": 1,
+          "name": "Doggos",
+          "thumbnail": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=387&q=80",
+          "pictures": [
+              {
+                  "id": 1,
+                  "name": "Close up",
+                  "thumbnail": "https://unsplash.com/photos/jxEJY7SrJco"
+              },
+              {
+                  "id": 2,
+                  "name": "Joyful",
+                  "thumbnail": "https://unsplash.com/photos/uOEWZCSSXW0"
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Yummy in my Tummy",
+          "thumbnail": "https://unsplash.com/photos/Z5tSnuGuTTw",
+          "pictures": [
+              {
+                  "id": 1,
+                  "name": "Mr Krab",
+                  "thumbnail": "https://unsplash.com/photos/rXDCb-Bmgdg"
+              },
+              {
+                  "id": 2,
+                  "name": "Mamamia!",
+                  "thumbnail": "https://unsplash.com/photos/4nXkhLCrkLo"
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "name": "Work of Art",
+          "thumbnail": "",
+          "pictures": [
+              {
+                  "id": 1,
+                  "name": "Creativeness",
+                  "thumbnail": "https://unsplash.com/photos/MzSqFPLo8CE"
+              },
+              {
+                  "id": 2,
+                  "name": "Colorful",
+                  "thumbnail": "https://unsplash.com/photos/XU0YcfPXKI4"
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Black Cats",
+          "thumbnail": "https://unsplash.com/photos/0FQneB1VjaM",
+          "pictures": [
+              {
+                  "id": 1,
+                  "name": "Playful",
+                  "thumbnail": "https://unsplash.com/photos/Ew2FI_2T7Xc"
+              },
+              {
+                  "id": 2,
+                  "name": "Mysterious",
+                  "thumbnail": "https://unsplash.com/photos/aFyD5aWKu6k"
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "name": "Northern lights",
+          "thumbnail": "https://unsplash.com/photos/ZSMgNjYrHRM",
+          "pictures": [
+              {
+                  "id": 1,
+                  "name": "Another Universe",
+                  "thumbnail": "https://unsplash.com/photos/uhoILl3HUZM"
+              },
+              {
+                  "id": 2,
+                  "name": "Area 51",
+                  "thumbnail": "https://unsplash.com/photos/iokiwAq05UU"
+              }
+          ]
+      },
+      {
+          "id": 6,
+          "name": "Cherry Blossoms",
+          "thumbnail": "https://unsplash.com/photos/26CmU9bujyo",
+          "pictures": [
+              {
+                  "id": 1,
+                  "name": "Beauty",
+                  "thumbnail": "https://unsplash.com/photos/_MJzPKfbcSI"
+              },
+              {
+                  "id": 2,
+                  "name": "Image 1",
+                  "thumbnail": ""
+              }
+          ]
+      }
+  ]
+}
